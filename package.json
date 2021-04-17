@@ -17,6 +17,10 @@
     "test": "./test",
     "bin": "./bin"
   },
+  "files": [
+    "src/**",
+    "bin/**"
+  ],
   "scripts": {
     "start": "node index",
     "test": "jest",
